@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Toggl Time Tracking Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Connect this React app with your personal Toggl account to start and stop time entries in a Toggl Workspace.
 
 ## Available Scripts
 
